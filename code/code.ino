@@ -41,4 +41,9 @@ void loop(){
   int moisturevalue = analogRead(soil_pin);
   float temperature = dht.readTemperature();
   float humidity = dht.readHumidity();
+
+  if (isnan() || isnan()){
+    Serial.println("Failed to read from Sensor(DHT22) ");
+    return;
+  }
 }
