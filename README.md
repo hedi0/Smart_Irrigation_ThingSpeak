@@ -1,4 +1,4 @@
-# 💧 Smart_Irrigation_ThingSpeak: Simple Intelligent IoT Irrigation System
+# 💧 Smart Irrigation with ThingSpeak: Simple Intelligent IoT Irrigation System
 
 An intelligent irrigation system leveraging IoT and ThingSpeak for remote monitoring, data visualization, and automated control of plant watering based on environmental conditions.
 
