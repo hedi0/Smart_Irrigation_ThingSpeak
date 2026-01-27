@@ -71,6 +71,20 @@ This project is primarily designed for embedded systems, likely using an ESP32 o
 6.  **Upload the Code:**
     Click the "Upload" button (right arrow icon) in the Arduino IDE to compile and upload the code to your device.
 
+## Components Required
+
+| Component | Quantity | Purpose |
+|-----------|----------|---------|
+| **NodeMCU ESP8266** | 1 | Main microcontroller with WiFi capability |
+| Soil Moisture Sensor Module | 1 | Measures soil moisture percentage |
+| Water Pump Module | 1 | Pumps water for irrigation |
+| Relay Module | 1 | Controls pump operation safely |
+| DHT22 Sensor | 1 | Measures temperature and humidity |
+| Breadboard | 1 | For prototyping connections |
+| Jumper Wires | Multiple | For circuit connections |
+| Power Supply (5V) | 1 | Powers sensors and pump |
+
+
 ## Pin Configuration
 
 ```
