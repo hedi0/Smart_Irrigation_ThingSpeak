@@ -54,8 +54,9 @@ void loop(){
 
   if(moistpercentage < 40){
     digitalWrite(relay_pin, LOW);
-    Serial.println("Pump Active");
+    Serial.println("Pump turned ON (Active)");
   }else{
-    
+    digitalWrite(relay_pin, HIGH);
+    Serial.println("Pump turned OFF");
   }
 }
