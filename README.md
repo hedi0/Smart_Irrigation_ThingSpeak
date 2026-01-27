@@ -162,5 +162,4 @@ This project is licensed under the **Apache License 2.0**.
 
 You are free to use, modify, and distribute this software under the terms of the Apache License, Version 2.0. A copy of the license is included in the `LICENSE` file in this repository.
 
-Copyright (c) 2023 hedi0
-```
+Copyright (c) 20
