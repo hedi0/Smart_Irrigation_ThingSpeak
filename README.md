@@ -71,6 +71,18 @@ This project is primarily designed for embedded systems, likely using an ESP32 o
 6.  **Upload the Code:**
     Click the "Upload" button (right arrow icon) in the Arduino IDE to compile and upload the code to your device.
 
+## Pin Configuration
+
+```
+NodeMCU ESP8266 Pin Connections:
+├── A0  ← Soil Moisture Sensor (Analog Output)
+├── D0  → Relay Module (Control Pin)
+├── D3  ← DHT11 Sensor (Data Pin)
+├── 3.3V → DHT11 VCC
+├── GND → Common Ground
+└── VIN → 5V Power Supply
+```
+
 ## 🚀 Usage Examples
 
 Once the code is uploaded and your Smart Irrigation system is powered on, it will automatically connect to your specified WiFi network and begin sending sensor data to your ThingSpeak channel.
