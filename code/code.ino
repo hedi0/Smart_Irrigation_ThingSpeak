@@ -23,7 +23,8 @@ void setup() {
   Serial.begin(9600);
 
   pinMode(relay_pin, OUTPUT);
-  digitalWrite(relay_pin, HIGH);
+  // we need it OFF at the start
+  digitalWrite(relay_pin, HIGH); //most relay modules are "active-LOW"
 
   dht.begin();
 
@@ -59,4 +60,10 @@ void loop(){
     digitalWrite(relay_pin, HIGH);
     Serial.println("Pump turned OFF");
   }
+  ThingSpeak.setField(1,moistpercentage);
+  ThingSpeak.setField(2,temperature);
+  ThingSpeak.setField(3,humidity);
+  ThingSpeak.writeFields(ChannelID,WriteAPIkey);
+
+  delay(15000);
 }
