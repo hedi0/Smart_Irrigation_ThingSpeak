@@ -46,4 +46,5 @@ void loop(){
     Serial.println("Failed to read from Sensor(DHT22) ");
     return;
   }
+  
 }
