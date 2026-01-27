@@ -37,3 +37,8 @@ void setup() {
   ThingSpeak.begin(client);
 }
 
+void loop(){
+  int moisturevalue = analogRead(soil_pin);
+  float temperature = dht.readTemperature();
+  float humidity = dht.readHumidity();
+}
