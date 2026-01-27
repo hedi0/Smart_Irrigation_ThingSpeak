@@ -17,3 +17,23 @@ const char* pass =  "PASTE_YOUR_PASSWORD_HERE";
 WiFiClient client;
 
 int threshholdDRY = 800;
+
+void setup() {
+  Serial.begin(9600);
+
+  pinMode(relay_pin, OUTPUT);
+  digitalWrite(relay_pin, HIGH);
+
+  dht.begin();
+
+  WiFi.begin(ssid,password);
+  Serial.print("Connecting To Wifi .... ");
+  while(WiFi.status() != WL_CONNECTED) {
+    delay(600);
+    Serial.print(".");
+  }
+  Serial.println("\nWiFi Connected");
+
+  ThingSpeak.begin(client);
+}
+
