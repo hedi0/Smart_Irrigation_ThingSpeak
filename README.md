@@ -83,14 +83,15 @@ NodeMCU ESP8266 Pin Connections:
 └── VIN → 5V Power Supply
 ```
 
-### ThingSpeak Setup
+## ThingSpeak Setup
+```
 1. Create a ThingSpeak account at [ThingSpeak](https://thingspeak.mathworks.com/)
 2. Create a new channel with 3 fields:
    - Field 1: Soil Moisture (%)
    - Field 2: Temperature (°C)
    - Field 3: Humidity (%)
 3. Get your 'ChannelID' and 'Write API Key' from the channel settings
-
+```
 ## 🚀 Usage Examples
 
 Once the code is uploaded and your Smart Irrigation system is powered on, it will automatically connect to your specified WiFi network and begin sending sensor data to your ThingSpeak channel.
