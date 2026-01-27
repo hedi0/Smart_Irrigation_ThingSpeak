@@ -8,8 +8,8 @@
 DHT dht(DHTPIN, DHT22);
 
 //ThingSpeak credentials
-String apiKey = "THINGSPEAK_WRITE_API_KEY"; // example : 
-const char* server = "api.thingspeak.com";
+const char* WriteAPIkey = "THINGSPEAK_WRITE_API_KEY"; // example : CVC8CV4VC8L4VCVC
+unsigned long ChannelID = PASTE_YOUR_CHANNEL_ID_HERE; // example : 4848484
 
 const char* ssid =  "PASTE_YOUR_SSID_HERE";
 const char* pass =  "PASTE_YOUR_PASSWORD_HERE";
