@@ -75,7 +75,7 @@ This project is primarily designed for embedded systems, likely using an ESP32 o
 
 | Component | Quantity | Purpose |
 |-----------|----------|---------|
-| [**NodeMCU ESP8266**]() | 1 | Main microcontroller with WiFi capability |
+| [**NodeMCU ESP8266**] | 1 | Main microcontroller with WiFi capability |
 | Soil Moisture Sensor Module | 1 | Measures soil moisture percentage |
 | Water Pump Module | 1 | Pumps water for irrigation |
 | Relay Module | 1 | Controls pump operation safely |
