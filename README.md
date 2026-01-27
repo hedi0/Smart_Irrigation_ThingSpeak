@@ -76,9 +76,9 @@ This project is primarily designed for embedded systems, likely using an ESP32 o
 ```
 NodeMCU ESP8266 Pin Connections:
 ├── A0  ← Soil Moisture Sensor (Analog Output)
-├── D0  → Relay Module (Control Pin)
-├── D3  ← DHT11 Sensor (Data Pin)
-├── 3.3V → DHT11 VCC
+├── D1  → Relay Module (Control Pin)
+├── D4  ← DHT22 Sensor (Data Pin)
+├── 3.3V → DHT22 VCC
 ├── GND → Common Ground
 └── VIN → 5V Power Supply
 ```
