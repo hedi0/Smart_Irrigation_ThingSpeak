@@ -194,4 +194,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 
 This project is licensed under the **Apache License 2.0**.
 
-You are free to use, modify, and distribute this
+You are free to use, modify, and distribut
