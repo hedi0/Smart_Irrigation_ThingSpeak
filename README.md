@@ -190,4 +190,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 *   Bug fixes should include a test case that reproduces the bug and verifies the fix.
 *   Ensure the system continues to connect to WiFi and send data to ThingSpeak reliably after your changes.
 
-## 📄 Lice
+## 📄
