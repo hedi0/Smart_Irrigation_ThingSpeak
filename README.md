@@ -172,8 +172,8 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 ### Branch Naming Conventions
 *   `main`: The stable, production-ready branch.
 *   `develop`: For ongoing development and integration of new features.
-*   `feature/[feature-name]`: For new features (e.g., `feature/remote-thresholds`).
-*   `bugfix/[issue-number]`: For bug fixes (e.g., `bugfix/123-wifi-disconnect`).
+*   `feature/[feature-name]`: For new features (e.g., `feature/remote-`).
+*   `bugfix/[issue-number]`: For bug fixes (e.g., `bugfix/123-wifi-`).
 
 ### Pull Request (PR) Process
 1.  **Fork the repository** and clone it to your local machine.
