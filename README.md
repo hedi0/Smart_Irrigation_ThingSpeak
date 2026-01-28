@@ -192,4 +192,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 
 ## 📄 License
 
-This project is licensed under the **Ap
+This project is licensed under
