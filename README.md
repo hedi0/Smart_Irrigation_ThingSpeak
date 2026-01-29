@@ -186,4 +186,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 8.  **Provide a clear description** of your changes in the PR, including any relevant issue numbers.
 
 ### Testing Requirements
-*   All new features should include basic unit tests or .
+*   All new features should include basi
