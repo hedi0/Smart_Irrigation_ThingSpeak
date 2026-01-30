@@ -181,5 +181,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 3.  **Make your changes**, ensuring they adhere to the code style.
 4.  **Test your changes** thoroughly.
 5.  **Commit your changes** with a clear, concise message.
-6.  **Push your branch** to your forked repository.
-7.  
+6.  **Push your branch** to your forked reposito
