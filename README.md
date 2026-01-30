@@ -185,4 +185,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 7.  **Open a Pull Request** against the `develop` branch of the main repository.
 8.  **Provide a clear description** of your changes in the PR, including any relevant issue numbers.
 
-### Testing Requi
+### Testin
