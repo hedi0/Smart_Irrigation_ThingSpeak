@@ -183,4 +183,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 5.  **Commit your changes** with a clear, concise message.
 6.  **Push your branch** to your forked repository.
 7.  **Open a Pull Request** against the `develop` branch of the main repository.
-8.  **Provide a clear description** of your changes in the PR
+8.  **Provide a clear description** of your changes in 
