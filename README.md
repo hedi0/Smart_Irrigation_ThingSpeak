@@ -160,15 +160,12 @@ Our vision for Smart_Irrigation_ThingSpeak includes continuous improvement and e
     *   **Fault Detection & Alerts:** Implement alerts for sensor failures, low water supply, or pump malfunctions.
 
 ## 🤝 Contribution Guidelines
-
-We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please follow these guidelines:
-
+We welcome contributions to make Smart Irrigation ThingSpeak even better! Please follow these guidelines:
 ### Code Style
 *   Follow standard C++ best practices.
 *   Use clear, descriptive variable and function names.
 *   Comment your code where necessary, especially for complex logic.
 *   Maintain consistent indentation (2 spaces or 4 spaces, as per existing code).
-
 ### Branch Naming Conventions
 *   `main`: The stable, production-ready branch.
 *   `develop`: For ongoing development and integration of new features.
