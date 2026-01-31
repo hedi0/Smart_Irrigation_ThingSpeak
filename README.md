@@ -180,4 +180,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 2.  **Create a new branch** from `develop` for your feature or bug fix.
 3.  **Make your changes**, ensuring they adhere to the code style.
 4.  **Test your changes** thoroughly.
-5.  **Commit your changes
+5.  **Commit your 
