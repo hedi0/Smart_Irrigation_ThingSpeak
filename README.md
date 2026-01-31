@@ -176,5 +176,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 *   `bugfix/[issue-number]`: For bug fixes (e.g., `bugfix/123-wifi-`).
 
 ### Pull Request (PR) Process
-1.  **Fork the repository** and clone it to your local machine.
-2. 
+1.  **Fork the repository** and clone it to your local machi
