@@ -175,4 +175,4 @@ We welcome contributions to make Smart_Irrigation_ThingSpeak even better! Please
 *   `feature/[feature-name]`: For new features (e.g., `feature/remote-`).
 *   `bugfix/[issue-number]`: For bug fixes (e.g., `bugfix/123-wifi-`).
 
-### Pull Request (PR) Pr
+### Pull Request (PR
