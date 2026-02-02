@@ -2,7 +2,7 @@
 
 An intelligent irrigation system leveraging IoT and ThingSpeak for remote monitoring, data visualization, and automated control of plant watering based on environmental conditions.
 
-<!-- Badges Row -->
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license/Smart_Irrigation_ThingSpeak-green)
 ![Stars](https://img.shields.io/github/stars/hedi0/Smart_Irrigation_ThingSpeak?style=social)
