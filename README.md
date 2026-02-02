@@ -163,4 +163,4 @@ Our vision for Smart_Irrigation_ThingSpeak includes continuous improvement and e
 We welcome contributions to make Smart Irrigation ThingSpeak even better! Please follow these guidelines:
 ### Code Style
 *   Follow standard C++ best practices.
-*   Use clear, descriptive variable and functio
+*   Use clear, descriptive variab
