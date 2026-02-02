@@ -166,5 +166,4 @@ We welcome contributions to make Smart Irrigation ThingSpeak even better! Please
 *   Use clear, descriptive variable and function names.
 *   Comment your code where necessary, especially for complex logic.
 *   Maintain consistent indentation (2 spaces or 4 spaces, as per existing code).
-### Branch Naming Conventions
-*   `m
+### Branch Naming Convent
