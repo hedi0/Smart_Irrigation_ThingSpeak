@@ -164,4 +164,4 @@ We welcome contributions to make Smart Irrigation ThingSpeak even better! Please
 ### Code Style
 *   Follow standard C++ best practices.
 *   Use clear, descriptive variable and function names.
-*   Comment your code where n
+*   Comment your c
