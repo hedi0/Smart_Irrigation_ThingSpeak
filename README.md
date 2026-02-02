@@ -169,5 +169,4 @@ We welcome contributions to make Smart Irrigation ThingSpeak even better! Please
 ### Branch Naming Conventions
 *   `main`: The stable, production-ready branch.
 *   `develop`: For ongoing development and integration of new features.
-*   `feature/[feature-name]`: For new features (e.g., `feature/remote-`).
-*   `b
+*   `feature/[feature-name]`: For new features (e.g., `feature/remote-`
