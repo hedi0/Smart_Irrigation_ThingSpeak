@@ -158,9 +158,3 @@ Our vision for Smart_Irrigation_ThingSpeak includes continuous improvement and e
     *   **Machine Learning for Optimization:** Explore using historical data to predict optimal watering schedules, minimizing water waste.
     *   **Mobile App Integration:** Develop a simple mobile application for more user-friendly monitoring and control.
     *   **Fault Detection & Alerts:** Implement alerts for sensor failures, low water supply, or pump malfunctions.
-
-## 🤝 Contribution Guidelines
-We welcome contributions to make Smart Irrigation ThingSpeak even better! Please follow these guidelines:
-### Code Style
-*   Follow standard C++ best practices.
-*   Use clear, descri
