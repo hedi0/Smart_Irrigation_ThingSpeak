@@ -168,4 +168,4 @@ We welcome contributions to make Smart Irrigation ThingSpeak even better! Please
 *   Maintain consistent indentation (2 spaces or 4 spaces, as per existing code).
 ### Branch Naming Conventions
 *   `main`: The stable, production-ready branch.
-*   `develop`: Fo
+*   `deve
