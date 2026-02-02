@@ -165,4 +165,4 @@ We welcome contributions to make Smart Irrigation ThingSpeak even better! Please
 *   Follow standard C++ best practices.
 *   Use clear, descriptive variable and function names.
 *   Comment your code where necessary, especially for complex logic.
-*   Maintain consistent inden
+*   Maintain consi
