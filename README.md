@@ -115,7 +115,7 @@ Once the code is uploaded and your Smart Irrigation system is powered on, it wil
 2.  **View Live Feeds:**
     You will see real-time charts visualizing your sensor data (e.g., soil moisture, temperature, humidity) as it's updated.
 
-    ![ThingSpeak Dashboard Placeholder](/thingspeak_dashboard_example.png)
+    ![ThingSpeak Dashboard Placeholder](/images/Dashboard_thingspeak_smart_irrigaition.png)
     [placeholder for ThingSpeak dashboard screenshot]
 
 ### Adjusting Thresholds (Firmware Update)
