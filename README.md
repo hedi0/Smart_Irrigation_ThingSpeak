@@ -7,7 +7,7 @@ An intelligent irrigation system leveraging IoT and ThingSpeak for remote monito
 ![Stars](https://img.shields.io/github/stars/hedi0/Smart_Irrigation_ThingSpeak?style=social)
 ![Forks](https://img.shields.io/github/forks/hedi0/Smart_Irrigation_ThingSpeak?style=social)
 
-![example-preview-image](/Smart_Irrigation_Preview_Image.png)
+![example-preview-image](/images/Smart_Irrigation_Preview_Image.png)
 
 ## ✨ Features
 
