@@ -48,6 +48,9 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | **🔧 Customizable** | Easy threshold adjustment and sensor calibration |
 | **🔄 Low Power** | Efficient code with optimal reading intervals |
 
+## 🔧 Hardware Requirements
+
+### Essential Components
 
 
 ## ✨ Features
