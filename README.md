@@ -59,7 +59,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | **5V Relay Module** | 1 | 1-channel, opto-isolated | $2-4 |
 | **Mini Water Pump** | 1 | 3-6V DC, 120L/H | $4-8 |
 | **Power Supply** | 1 | 5V 2A DC adapter | $5-8 |
-
+| **Jumper Wires** | 20+ | Female-Female, Male-Female | $3-5 |
+| **Breadboard** | 
 
 
 
