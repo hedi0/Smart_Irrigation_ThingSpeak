@@ -3,14 +3,11 @@
 An intelligent irrigation system leveraging IoT and ThingSpeak for remote monitoring, data visualization, and automated control of plant watering based on environmental conditions.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-<!--![License](https://img.shields.io/badge/license/Smart_Irrigation_ThingSpeak-green)-->
+![License](https://img.shields.io/badge/license/Smart_Irrigation_ThingSpeak-green)
 ![Stars](https://img.shields.io/github/stars/hedi0/Smart_Irrigation_ThingSpeak?style=social)
 ![Forks](https://img.shields.io/github/forks/hedi0/Smart_Irrigation_ThingSpeak?style=social)
 [![ESP8266](https://img.shields.io/badge/MCU-ESP8266-orange.svg)](https://www.espressif.com/)
 [![ThingSpeak](https://img.shields.io/badge/Cloud-ThingSpeak-blue.svg)](https://thingspeak.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/hedi0/Smart_Irrigation_ThingSpeak)](https://github.com/hedi0/Smart_Irrigation_ThingSpeak/stargazers)
-
 ![example-preview-image](/images/Smart_Irrigation_Preview_Image.png)
 
 ## ✨ Features
