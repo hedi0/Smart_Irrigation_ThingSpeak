@@ -65,9 +65,11 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 
 **Total Estimated Cost: $29-52**
 
-## 🔌 
+## 🔌 Circuit Wiring
 
+### Pin Configuration Table
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## ✨ Features
