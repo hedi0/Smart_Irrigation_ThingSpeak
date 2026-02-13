@@ -57,6 +57,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | **Soil Moisture Sensor** | 1 | Capacitive (preferred) or Resistive | $3-6 |
 | **DHT22 Sensor** | 1 | Temperature & Humidity | $4-7 |
 | **5V Relay Module** | 1 | 1-channel, opto-isolated | $2-4 |
+| **Mini Water Pump** | 1 | 3-6V DC, 120L/H | $4-8 |
+| **Power Supply** | 1 | 5V 2A DC adapter | $5-8 |
 
 
 
