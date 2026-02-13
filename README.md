@@ -31,7 +31,7 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 
 ### How It Works
 1. **Soil Moisture Sensor** continuously measures ground humidity
-
+2. **DHT22 Sensor** tracks ambient temperature and humidity  
 
 
 
