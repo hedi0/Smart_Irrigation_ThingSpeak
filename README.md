@@ -11,6 +11,21 @@ An intelligent irrigation system leveraging IoT and ThingSpeak for remote monito
 
 ![example-preview-image](/images/Smart_Irrigation_Preview_Image.png)
 
+## 📋 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Hardware Requirements](#-hardware-requirements)
+
+
+
+
+
+
+
+
+
+
+
 ## ✨ Features
 
 *   **📊 Real-time Data Monitoring:** Continuously collects and transmits sensor data (e.g., soil moisture, temperature) to ThingSpeak for live visualization.
