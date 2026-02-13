@@ -33,7 +33,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 1. **Soil Moisture Sensor** continuously measures ground humidity
 2. **DHT22 Sensor** tracks ambient temperature and humidity  
 3. **ESP8266** processes sensor data and controls the pump
-
+4. **ThingSpeak Cloud** stores and visualizes all data
+5. **Automatic Watering** activates when soil becomes too dry
 
 ## ✨ Features
 
