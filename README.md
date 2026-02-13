@@ -29,6 +29,8 @@ An intelligent irrigation system leveraging IoT and ThingSpeak for remote monito
 
 This **Smart Irrigation System** is an IoT-based solution that automates plant watering based on real-time soil moisture readings. It monitors environmental conditions and uploads data to ThingSpeak cloud for remote monitoring and analytics.
 
+### How It Works
+1. **Soil Moisture Sensor** continuously measures ground humidity
 
 
 
