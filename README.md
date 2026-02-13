@@ -41,6 +41,10 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | Feature | Description |
 |---------|-------------|
 | **🌊 Real-time Monitoring** | Continuous soil moisture, temperature & humidity tracking |
+| **⚡ Automatic Pump Control** | Smart watering based on soil moisture thresholds |
+
+
+
 ## ✨ Features
 
 *   **📊 Real-time Data Monitoring:** Continuously collects and transmits sensor data (e.g., soil moisture, temperature) to ThingSpeak for live visualization.
