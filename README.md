@@ -45,6 +45,7 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | **☁️ Cloud Integration** | Data logging and visualization on ThingSpeak |
 | **📱 Remote Access** | Monitor system from anywhere via web dashboard |
 | **📊 Data Analytics** | Historical trends and watering patterns |
+| **🔧 Customizable** | Easy threshold adjustment and sensor calibration |
 
 
 
