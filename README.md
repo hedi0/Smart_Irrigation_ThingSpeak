@@ -18,7 +18,9 @@ An intelligent irrigation system leveraging IoT and ThingSpeak for remote monito
 - [Circuit Wiring](#-circuit-wiring)
 - [Software Setup](#-software-setup)
 - [ThingSpeak Configuration](#-thingspeak-configuration)
-
+- [Code Explanation](#-code-explanation)
+- [Installation Guide](#-installation-guide)
+- [Operation & Calibration](#-operation--calibration)
 
 
 
