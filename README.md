@@ -51,7 +51,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 ## 🔧 Hardware Requirements
 
 ### Essential Components
-
+| Component | Quantity | Specification | Estimated Cost |
+|-----------|:--------:|---------------|:--------------:|
 
 ## ✨ Features
 
