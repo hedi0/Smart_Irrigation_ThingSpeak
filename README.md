@@ -21,7 +21,9 @@ An intelligent irrigation system leveraging IoT and ThingSpeak for remote monito
 - [Code Explanation](#-code-explanation)
 - [Installation Guide](#-installation-guide)
 - [Operation & Calibration](#-operation--calibration)
-
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 
 
@@ -152,12 +154,7 @@ void loop() {
   // ... sensor reading logic ...
 
   if (soilMoistureValue < MOISTURE_THRESHOLD) {
-    // Activate pump
-    digitalWrite(PUMP_PIN, HIGH);
-    delay(PUMP_ON_DURATION_MS);
-    digitalWrite(PUMP_PIN, LOW);
-  }
-
+    // Activate pum
   // ... ThingSpeak update logic ...
 }
 ```
