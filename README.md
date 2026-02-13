@@ -27,7 +27,7 @@ An intelligent irrigation system leveraging IoT and ThingSpeak for remote monito
 
 ## 🌟 Overview
 
-This **Smart Irrigation System** is an IoT-based solution that automates plant watering based on rea
+This **Smart Irrigation System** is an IoT-based solution that automates plant watering based on real-time soil moisture readings. It monitors
 
 
 
