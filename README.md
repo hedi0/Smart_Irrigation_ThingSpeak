@@ -63,6 +63,9 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | **Breadboard** | 1 | 400 points | $2-4 |
 | **PVC Tubing** | 1m | 4mm inner diameter | $1-2 |
 
+**Total Estimated Cost: $29-52**
+
+## 🔌 
 
 
 
