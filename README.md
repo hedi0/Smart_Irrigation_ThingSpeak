@@ -46,6 +46,7 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | **📱 Remote Access** | Monitor system from anywhere via web dashboard |
 | **📊 Data Analytics** | Historical trends and watering patterns |
 | **🔧 Customizable** | Easy threshold adjustment and sensor calibration |
+| **🔄 Low Power** | Efficient code with optimal reading intervals |
 
 
 
