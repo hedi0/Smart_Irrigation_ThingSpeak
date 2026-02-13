@@ -15,7 +15,9 @@ An intelligent irrigation system leveraging IoT and ThingSpeak for remote monito
 - [Overview](#-overview)
 - [Features](#-features)
 - [Hardware Requirements](#-hardware-requirements)
-
+- [Circuit Wiring](#-circuit-wiring)
+- [Software Setup](#-software-setup)
+- [ThingSpeak Configuration](#-thingspeak-configuration)
 
 
 
