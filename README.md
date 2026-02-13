@@ -55,6 +55,14 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 |-----------|:--------:|---------------|:--------------:|
 | **NodeMCU ESP8266** | 1 | CP2102 version recommended | $5-8 |
 | **Soil Moisture Sensor** | 1 | Capacitive (preferred) or Resistive | $3-6 |
+| **DHT22 Sensor** | 1 | Temperature & Humidity | $4-7 |
+| **5V Relay Module** | 1 | 1-channel, opto-isolated | $2-4 |
+
+
+
+
+
+
 ## ✨ Features
 
 *   **📊 Real-time Data Monitoring:** Continuously collects and transmits sensor data (e.g., soil moisture, temperature) to ThingSpeak for live visualization.
