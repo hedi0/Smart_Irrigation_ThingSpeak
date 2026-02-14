@@ -147,6 +147,13 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
+4. Click **OK**
+
+#### Step 2: Install ES
+
+
+
+
 
 <!--
 ## ✨ Features
