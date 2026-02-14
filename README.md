@@ -140,7 +140,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 
 ### Arduino IDE Configuration
 
-#### Step 1: 
+#### Step 1: Add ESP8266 Board
+1. Open Arduino IDE
 
 
 <!--
