@@ -165,6 +165,8 @@ Open **Library Manager** (Sketch → Include Library → Manage Libraries) and i
 
 ## ☁️ ThingSpeak Configuration
 
+### Step 1: Create Account
+1. Go to [ThingSpeak.com]
 <!--
 ## ✨ Features
 
