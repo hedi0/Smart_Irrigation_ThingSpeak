@@ -157,6 +157,7 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 #### Step 3: Install Required Libraries
 Open **Library Manager** (Sketch → Include Library → Manage Libraries) and install:
 
+| Library | Search Query |
 
 <!--
 ## ✨ Features
