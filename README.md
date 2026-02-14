@@ -159,7 +159,7 @@ Open **Library Manager** (Sketch → Include Library → Manage Libraries) and i
 
 | Library | Search Query |
 |---------|--------------|
-
+| **ThingSpeak** | "ThingSpeak by MathWorks" |
 
 
 
