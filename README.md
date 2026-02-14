@@ -190,8 +190,10 @@ Channel Settings
 3. Note down:
    - **Channel ID** (8-digit number)
    - **Write API Key** (alphanumeric code)
-
-
+```
+const char* WriteAPIkey = "THINGSPEAK_WRITE_API_KEY";
+unsigned long ChannelID = PASTE_YOUR_CHANNEL_ID_HERE;
+```
 
 <!--
 ## ✨ Features
