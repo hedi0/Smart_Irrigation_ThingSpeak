@@ -195,6 +195,14 @@ const char* WriteAPIkey = "THINGSPEAK_WRITE_API_KEY";
 unsigned long ChannelID = PASTE_YOUR_CHANNEL_ID_HERE;
 ```
 
+# 🚀 Installation Guide
+
+## Method 1: Clone Repository
+
+```bash
+
+
+
 <!--
 ## ✨ Features
 
