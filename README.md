@@ -220,6 +220,11 @@ const char* ssid = "YourWiFiName";      // ← Change this
 const char* pass = "YourWiFiPassword";  // ← Change this
 ```
 
+## Step 2: Add ThingSpeak Credentials
+
+``` cpp
+
+
 
 
 
