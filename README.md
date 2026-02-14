@@ -68,9 +68,11 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 ## 🔌 Circuit Wiring
 
 ### Pin Configuration Table
-
 | NodeMCU Pin | Connected To | Wire Color | Notes |
 |:------------|:-------------|:-----------|:------|
+| **A0** | Soil Moisture Sensor (AO) | Orange | Analog input |
+| **D1** | Relay Module (IN) | Yellow | Digital control |
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
