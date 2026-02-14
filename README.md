@@ -145,7 +145,7 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 2. Go to **File** → **Preferences**
 3. In "Additional Boards Manager URLs", add:
 ```
-http://arduino.esp8266.com/stable/package_esp8266com_index.json
+      http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 4. Click **OK**
 
@@ -154,7 +154,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 2. Search for "**esp8266**"
 3. Install **"esp8266 by ESP8266 Community"**
 
-
+#### Step 3: Install Required Libraries
 
 
 
