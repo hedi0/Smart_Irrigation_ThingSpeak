@@ -215,6 +215,9 @@ cd Smart_Irrigation_ThingSpeak/code
 
 ## Step 1: Edit WiFi Credentials
 
+``` cpp
+const char* ssid = "YourWiFiName";      // ← Change this
+
 
 
 
