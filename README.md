@@ -238,7 +238,9 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 1.  Click the **Upload** button.
 2.  Wait for **"Done uploading"**.
 3.  Open **Tools → Serial Monitor**.
-4.  Set baud rate to 
+4.  Set baud rate to **9600**.
+
+------------------------------------------------------------------------
 
 
 
