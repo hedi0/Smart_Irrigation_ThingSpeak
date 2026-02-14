@@ -128,6 +128,10 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 
 ### ⚠️ IMPORTANT SAFETY NOTES
 - **External Power Required**: Pump draws 200-500mA, don't power through NodeMCU
+- **Common Ground**: Connect all GND pins together
+- **Relay Configuration**: Most modules are active-LOW (LOW = pump ON)
+
+
 
 
 <!--
