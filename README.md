@@ -126,7 +126,11 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
                             └───────┘
 ```
 
+### ⚠️ IMPORTANT SAFETY NOTES
+- **External Power Required**: Pump draws 200-500mA, don't power through NodeMCU
 
+
+<!--
 ## ✨ Features
 
 *   **📊 Real-time Data Monitoring:** Continuously collects and transmits sensor data (e.g., soil moisture, temperature) to ThingSpeak for live visualization.
@@ -269,3 +273,4 @@ Our vision for Smart_Irrigation_ThingSpeak includes continuous improvement and e
     *   **Machine Learning for Optimization:** Explore using historical data to predict optimal watering schedules, minimizing water waste.
     *   **Mobile App Integration:** Develop a simple mobile application for more user-friendly monitoring and control.
     *   **Fault Detection & Alerts:** Implement alerts for sensor failures, low water supply, or pump malfunctions.
+-->
