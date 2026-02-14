@@ -144,8 +144,9 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 1. Open Arduino IDE
 2. Go to **File** → **Preferences**
 3. In "Additional Boards Manager URLs", add:
-
-
+```
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
 
 <!--
 ## ✨ Features
