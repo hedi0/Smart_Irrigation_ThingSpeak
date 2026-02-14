@@ -167,6 +167,8 @@ Open **Library Manager** (Sketch → Include Library → Manage Libraries) and i
 
 ### Step 1: Create Account
 1. Go to [ThingSpeak.com](https://thingspeak.mathworks.com/)
+2. Click **"Sign Up"** (free account)
+
 <!--
 ## ✨ Features
 
