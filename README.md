@@ -152,7 +152,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 #### Step 2: Install ESP8266 Board Package
 1. Go to **Tools** → **Board** → **Boards Manager**
 2. Search for "**esp8266**"
-3. Install **"esp8266 
+3. Install **"esp8266 by ESP8266 Community"**
 
 
 
