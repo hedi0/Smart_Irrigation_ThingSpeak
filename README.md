@@ -175,7 +175,13 @@ Open **Library Manager** (Sketch → Include Library → Manage Libraries) and i
 2. Click **"New Channel"**
 3. Configure as follows:
 ```
-
+Channel Settings
+├── Name: Smart Irrigation System
+├── Description: Automated plant watering monitor
+├── Field 1: Soil Moisture (%)
+├── Field 2: Temperature (°C)
+├── Field 3: Humidity (%)
+└── ✅ Make Public (optional)
 ```
 
 
