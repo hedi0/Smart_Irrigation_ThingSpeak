@@ -223,7 +223,7 @@ const char* pass = "YourWiFiPassword";  // ← Change this
 ## Step 2: Add ThingSpeak Credentials
 
 ``` cpp
-
+const char* WriteAPIkey = "XXXXXXXXXXXXXXXX";  // ← Your Write API Key
 
 
 
