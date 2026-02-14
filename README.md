@@ -224,6 +224,8 @@ const char* pass = "YourWiFiPassword";  // ← Change this
 
 ``` cpp
 const char* WriteAPIkey = "XXXXXXXXXXXXXXXX";  // ← Your Write API Key
+unsigned long ChannelID = 12345678;            // ← Your Channel ID
+```
 
 
 
