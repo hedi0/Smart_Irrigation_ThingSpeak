@@ -76,6 +76,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | **3.3V** | DHT22 (VCC) | Red | Power for DHT22 |
 | **GND** | Common Ground | Black | All components |
 | **VIN** | 5V Power Supply (+) | Red | External power |
+| **5V** | Relay Module (VCC) | Red | Relay power |
+| **GND** | Relay Module (GND) | Black | Relay ground |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
