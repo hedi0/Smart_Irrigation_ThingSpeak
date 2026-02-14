@@ -235,7 +235,8 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 
 ## Step 4: Upload Code
 
-1.  Click the 
+1.  Click the **Upload** button.
+2.  Wait for **"Done uploa
 
 
 
