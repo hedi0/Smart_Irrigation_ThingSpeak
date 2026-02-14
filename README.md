@@ -72,6 +72,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 |:------------|:-------------|:-----------|:------|
 | **A0** | Soil Moisture Sensor (AO) | Orange | Analog input |
 | **D1** | Relay Module (IN) | Yellow | Digital control |
+| **D4** | DHT22 (DATA) | Green | Digital with pull-up |
+| **3.3V** | DHT22 (VCC) | Red | Power for DHT22 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
