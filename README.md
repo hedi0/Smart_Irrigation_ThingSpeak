@@ -158,6 +158,11 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 Open **Library Manager** (Sketch → Include Library → Manage Libraries) and install:
 
 | Library | Search Query |
+|---------|--------------|
+
+
+
+
 
 <!--
 ## ✨ Features
