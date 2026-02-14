@@ -171,7 +171,8 @@ Open **Library Manager** (Sketch → Include Library → Manage Libraries) and i
 3. Verify email and login
 
 ### Step 2: Create Channel
-1. Navigate to **Channels*
+1. Navigate to **Channels** → **My Channels**
+2. Click **"New Channe
 
 
 
