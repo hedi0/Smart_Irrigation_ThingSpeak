@@ -230,6 +230,7 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 ## Step 3: Select Board
 
 -   **Tools → Board → ESP8266 Boards → NodeMCU 1.0 (ESP-12E Module)**
+-   **Tools → Port → Select your COM port**
 -   **Tools →
 
 
