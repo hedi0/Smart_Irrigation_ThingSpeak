@@ -217,7 +217,8 @@ cd Smart_Irrigation_ThingSpeak/code
 
 ``` cpp
 const char* ssid = "YourWiFiName";      // ← Change this
-
+const char* pass = "YourWiFiPassword";  // ← Change this
+```
 
 
 
