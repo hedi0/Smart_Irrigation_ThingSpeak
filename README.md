@@ -69,6 +69,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 
 ### Pin Configuration Table
 
+| NodeMCU Pin | Connected To | Wire Color | Notes |
+|:------------|:-------------|:-----------|:------|
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
