@@ -135,8 +135,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 ## 💻 Software Setup
 
 ### Required Software
-1. **Arduino IDE** 
-
+1. **Arduino IDE** [Download](https://www.arduino.cc/en/software)
+2. **CP2102 USB Driver** 
 
 <!--
 ## ✨ Features
