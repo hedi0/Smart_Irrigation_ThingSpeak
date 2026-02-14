@@ -207,6 +207,17 @@ cd Smart_Irrigation_ThingSpeak/code
 ## Method 2: Manual Setup
 
 1.  Copy the code above into a new Arduino sketch.
+2.  Save the file as `Smart_Irrigation_ThingSpeak.ino`.
+
+
+
+
+
+
+
+
+
+
 
 <!--
 ## ✨ Features
