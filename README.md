@@ -184,6 +184,12 @@ Channel Settings
 └── ✅ Make Public (optional)
 ```
 
+### Step 3: Get API Credentials
+1. Open your channel
+2. Go to **"API Keys"** tab
+3. Note down:
+   - **Channel ID** (8-digit number)
+   - **Write API Key** (alphanumeric code)
 
 
 
