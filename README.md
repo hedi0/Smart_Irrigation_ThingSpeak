@@ -204,6 +204,8 @@ git clone https://github.com/hedi0/Smart_Irrigation_ThingSpeak.git
 cd Smart_Irrigation_ThingSpeak/code
 ```
 
+## Method 2: Manual Setup
+
 
 <!--
 ## ✨ Features
