@@ -231,7 +231,7 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 
 -   **Tools → Board → ESP8266 Boards → NodeMCU 1.0 (ESP-12E Module)**
 -   **Tools → Port → Select your COM port**
--   **Tools →
+-   **Tools → Upload Speed → 115200**
 
 
 
