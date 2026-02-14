@@ -79,7 +79,10 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 | **5V** | Relay Module (VCC) | Red | Relay power |
 | **GND** | Relay Module (GND) | Black | Relay ground |
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Wiring Diagram
+```
+
+```
 
 
 ## ✨ Features
