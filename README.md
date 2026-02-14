@@ -172,7 +172,8 @@ Open **Library Manager** (Sketch → Include Library → Manage Libraries) and i
 
 ### Step 2: Create Channel
 1. Navigate to **Channels** → **My Channels**
-2. Click **"New Channe
+2. Click **"New Channel"**
+3. Configure as follows:
 
 
 
