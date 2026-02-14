@@ -106,24 +106,24 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
         │ │    Relay Module
         │ │    ┌────────────┐
         │ └────┤ IN         │
-        │      │ VCC ───────┼────┐
-        │      │ GND ───────┼──┐ │
-        │      │ COM ───────┼─┐│ │
-        │      │ NO  ───────┼─┼┼─┼────┐
-        │      │ NC         │ ││ │    │
-        │      └────────────┘ ││ │    │
-        │                   ││ │    │
-        │ Soil Moisture     ││ │    │
-        │ ┌───────────┐     ││ │    │
-        └─┤ AO        │     ││ │    │
-          │ GND ──────┼─────┼┼─┘    │
-          │ VCC ──────┼─────┼┘      │
-          └───────────┘     │       │
-                          ┌─▼─┐   ┌─▼─┐
-                          │Pump│   │5V │
-                          │(+)│   │(-)│
-                          └─┬─┘   └─┬─┘
-                            └───────┘
+        │      │ VCC ───────┼──────┐
+        │      │ GND ───────┼──┐   │
+        │      │ COM ───────┼─┐│   │
+        │      │ NO  ───────┼─┼┼───┼────┐
+        │      │ NC         │ ││   │    │
+        │      └────────────┘ ││   │    │
+        │                     ││   │    │
+        │ Soil Moisture       ││   │    │
+        │ ┌───────────┐       ││   │    │
+        └─┤ AO        │       ││   │    │
+          │ GND ──────┼───────┼┘   │    │
+          │ VCC ──────┼───────┼────┘    │
+          └───────────┘       │         │
+                            ┌─▼──┐    ┌─▼─┐
+                            │Pump│    │5V │
+                            │(+) │    │(-)│
+                            └─┬──┘    └─┬─┘
+                              └─────────┘
 ```
 
 ### ⚠️ IMPORTANT SAFETY NOTES
@@ -174,6 +174,10 @@ Open **Library Manager** (Sketch → Include Library → Manage Libraries) and i
 1. Navigate to **Channels** → **My Channels**
 2. Click **"New Channel"**
 3. Configure as follows:
+```
+
+```
+
 
 
 
