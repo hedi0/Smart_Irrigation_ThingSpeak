@@ -233,6 +233,9 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 -   **Tools → Port → Select your COM port**
 -   **Tools → Upload Speed → 115200**
 
+## Step 4: Upload Code
+
+1.  Click the 
 
 
 
