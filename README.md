@@ -213,7 +213,7 @@ cd Smart_Irrigation_ThingSpeak/code
 
 # ⚙️ Configuration Steps
 
-
+## Step 1: Edit WiFi Credentials
 
 
 
