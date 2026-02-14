@@ -227,7 +227,9 @@ const char* WriteAPIkey = "XXXXXXXXXXXXXXXX";  // ← Your Write API Key
 unsigned long ChannelID = 12345678;            // ← Your Channel ID
 ```
 
+## Step 3: Select Board
 
+-   **Tools → Board → ESP8266 Board
 
 
 <!--
