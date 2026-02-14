@@ -134,6 +134,8 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 
 ## 💻 Software Setup
 
+### Required Software
+1. **Arduino IDE** 
 
 
 <!--
