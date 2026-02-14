@@ -161,7 +161,7 @@ Open **Library Manager** (Sketch → Include Library → Manage Libraries) and i
 |---------|--------------|
 | **ThingSpeak** | "ThingSpeak by MathWorks" |
 | **DHT sensor library** | "DHT sensor library by Adafruit" |
-
+| **Adafruit Unified Sensor** | "Adafruit Unified Sensor" |
 
 
 <!--
