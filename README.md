@@ -201,7 +201,8 @@ unsigned long ChannelID = PASTE_YOUR_CHANNEL_ID_HERE;
 
 ```bash
 git clone https://github.com/hedi0/Smart_Irrigation_ThingSpeak.git
-
+cd Smart_Irrigation_ThingSpeak/code
+```
 
 
 <!--
