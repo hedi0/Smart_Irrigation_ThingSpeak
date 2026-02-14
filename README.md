@@ -136,7 +136,7 @@ This **Smart Irrigation System** is an IoT-based solution that automates plant w
 
 ### Required Software
 1. **Arduino IDE** [Download](https://www.arduino.cc/en/software)
-2. **CP2102 USB Driver** [Download](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+2. **CP2102 USB Driver** [Download](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
 ### Arduino IDE Configuration
 
