@@ -285,6 +285,9 @@ if(moistpercentage < 40){  // ← Adjust this number
   
   No Serial Output                    Check COM port selection and ensure
                                       baud rate is set to 9600
+                                      
+  WiFi Connection Failed              Verify SSID and password, check
+                                      WiFi signal strength
 
 <!--
 ## ✨ Features
