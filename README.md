@@ -313,7 +313,8 @@ Contributions are welcome!
 
 ## How to Contribute
 
-1.  F
+1.  Fork the repository.
+2.  C
 <!--
 ## ✨ Features
 
