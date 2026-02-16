@@ -267,6 +267,9 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 
 Change the watering threshold (currently set to **40%**):
 
+``` cpp
+if(moistpercentage < 40){  // ← Adjust this number
+
 
 <!--
 ## ✨ Features
