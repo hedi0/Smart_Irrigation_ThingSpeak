@@ -301,6 +301,8 @@ if(moistpercentage < 40){  // ← Adjust this number
   ThingSpeak No Data                  Verify API key and Channel ID,
                                       ensure 15s delay between updates
 
+  ESP8266 Restarting                  Use a stable 5V 2A power supply
+
 <!--
 ## ✨ Features
 
