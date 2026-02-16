@@ -261,7 +261,9 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 3.  Note the reading in the Serial Monitor.
 4.  Update the `soilWET` value in the code.
 
---------
+------------------------------------------------------------------------
+
+## Threshold Adjustment
 
 
 <!--
