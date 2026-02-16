@@ -317,6 +317,8 @@ Contributions are welcome!
 2.  Create a feature branch:
 
 ``` bash
+git checkout -b feature/AmazingFeature
+```
 <!--
 ## ✨ Features
 
