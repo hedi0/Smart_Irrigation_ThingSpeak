@@ -302,6 +302,10 @@ if(moistpercentage < 40){  // ← Adjust this number
                                       ensure 15s delay between updates
 
   ESP8266 Restarting                  Use a stable 5V 2A power supply
+  
+  -----------------------------------------------------------------------
+
+  ------------------------------------------------------------------------
 
 <!--
 ## ✨ Features
