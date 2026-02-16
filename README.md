@@ -265,6 +265,8 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 
 ## Threshold Adjustment
 
+Change the watering threshold (currently set to **40%**):
+
 
 <!--
 ## ✨ Features
