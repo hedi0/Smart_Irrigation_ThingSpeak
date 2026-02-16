@@ -298,6 +298,9 @@ if(moistpercentage < 40){  // ← Adjust this number
   Pump Not Working                    Verify relay wiring (COM/NO) and
                                       external power supply
 
+  ThingSpeak No Data                  Verify API key and Channel ID,
+                                      ensure 15s delay between updates
+
 <!--
 ## ✨ Features
 
