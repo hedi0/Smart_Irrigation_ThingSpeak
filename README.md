@@ -271,6 +271,9 @@ Change the watering threshold (currently set to **40%**):
 if(moistpercentage < 40){  // ← Adjust this number
     digitalWrite(relay_pin, LOW);
 }
+```
+
+------------------------------------------------------------------------
 
 
 <!--
