@@ -252,7 +252,9 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 
 1.  Leave the sensor in air for **5 minutes**.
 2.  Note the reading in the **Serial Monitor**.
-3.  Up
+3.  Update the `soilDRY` value in the code.
+
+####
 
 
 <!--
