@@ -259,7 +259,9 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 1.  Submerge the sensor in water.
 2.  Wait **2 minutes**.
 3.  Note the reading in the Serial Monitor.
-4.  Up
+4.  Update the `soilWET` value in the code.
+
+--------
 
 
 <!--
