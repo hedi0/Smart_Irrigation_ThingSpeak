@@ -289,6 +289,9 @@ if(moistpercentage < 40){  // ← Adjust this number
   WiFi Connection Failed              Verify SSID and password, check
                                       WiFi signal strength
 
+  DHT22 Read Failures                 Check wiring at D4 and add a 10kΩ
+                                      pull-up resistor
+
 <!--
 ## ✨ Features
 
