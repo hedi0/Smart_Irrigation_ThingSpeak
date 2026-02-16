@@ -307,6 +307,9 @@ if(moistpercentage < 40){  // ← Adjust this number
 
   ------------------------------------------------------------------------
 
+# 🤝 Contributing
+
+Contributions are welcome!
 <!--
 ## ✨ Features
 
