@@ -248,7 +248,9 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 
 ### 🌱 Soil Moisture Sensor
 
-##
+#### Dry Calibration
+
+1.  Le
 
 
 <!--
