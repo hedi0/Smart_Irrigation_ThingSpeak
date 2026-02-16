@@ -250,7 +250,8 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 
 #### Dry Calibration
 
-1.  Le
+1.  Leave the sensor in air for **5 minutes**.
+2.  Not
 
 
 <!--
