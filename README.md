@@ -292,6 +292,9 @@ if(moistpercentage < 40){  // ← Adjust this number
   DHT22 Read Failures                 Check wiring at D4 and add a 10kΩ
                                       pull-up resistor
 
+  Wrong Moisture Values               Perform dry and wet calibration
+                                      again
+
 <!--
 ## ✨ Features
 
