@@ -319,6 +319,24 @@ Contributions are welcome!
 ``` bash
 git checkout -b feature/AmazingFeature
 ```
+
+3.  Commit your changes:
+
+``` bash
+git commit -m "Add AmazingFeature"
+```
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 ## ✨ Features
 
