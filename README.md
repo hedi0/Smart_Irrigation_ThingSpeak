@@ -314,7 +314,9 @@ Contributions are welcome!
 ## How to Contribute
 
 1.  Fork the repository.
-2.  C
+2.  Create a feature branch:
+
+``` bash
 <!--
 ## ✨ Features
 
