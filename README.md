@@ -295,6 +295,9 @@ if(moistpercentage < 40){  // ← Adjust this number
   Wrong Moisture Values               Perform dry and wet calibration
                                       again
 
+  Pump Not Working                    Verify relay wiring (COM/NO) and
+                                      external power supply
+
 <!--
 ## ✨ Features
 
