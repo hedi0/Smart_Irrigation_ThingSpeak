@@ -254,7 +254,9 @@ unsigned long ChannelID = 12345678;            // ← Your Channel ID
 2.  Note the reading in the **Serial Monitor**.
 3.  Update the `soilDRY` value in the code.
 
-####
+#### Wet Calibration
+
+1.  S
 
 
 <!--
