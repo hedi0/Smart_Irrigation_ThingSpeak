@@ -292,18 +292,7 @@ if(moistpercentage < 40){  // ← Adjust this number
 
 # 🤝 Contributing
 
-Contributions are welcome!
-
-## How to Contribute
-
-1.  Fork the repository.
-2.  Create a feature branch:
-
-``` bash
-git checkout -b feature/AmazingFeature
-```
-
-3.  Commit your changes:
+Contr
 
 ``` bash
 git commit -m "Add AmazingFeature"
@@ -316,15 +305,10 @@ git push origin feature/AmazingF
 
 
 <!--
-## ✨ Features
+## ✨ Featur
 
-*   **📊 Real-time Data Monitoring:** Continuously collects and transmits sensor data (e.g., soil moisture, temperature) to ThingSpeak for live visualization.
-*   **⚙️ Automated Watering Control:** Intelligently activates irrigation based on predefined soil moisture thresholds, ensuring optimal plant hydration.
-*   **☁️ Cloud-Based Analytics:** Utilizes ThingSpeak's powerful analytics to track environmental trends and optimize watering schedules over time.
-*   **📱 Remote Accessibility:** Monitor and potentially control your irrigation system from anywhere with an internet connection via the ThingSpeak platform.
-*   **🔌 Modular Sensor Integration:** Designed for easy integration with various sensors, allowing for customization and expansion of monitoring capabilities.
-
-## 🛠️ Installation Guide
+*   **n with vrious sensors,nor customizatn and expansion of monitoring capabilities.
+## 🛠️ Installation G
 
 This project is primarily designed for embedded systems, likely using an ESP32 or ESP8266 microcontroller with the Arduino IDE.
 
