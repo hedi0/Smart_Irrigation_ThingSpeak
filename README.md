@@ -289,7 +289,16 @@ if(moistpercentage < 40){  // ← Adjust this number
 | ThingSpeak No Data | Verify API key and Channel ID, ensure 15s delay between updates |
 | ESP8266 Restarting | Use a stable 5V 2A power supply |
 
+### Monitoring Data on ThingSpeak
 
+1.  **Access Your Channel:**
+    Open your web browser and navigate to `https://thingspeak.com/channels/[YOUR_CHANNEL_ID]`. Log in to your ThingSpeak account if prompted.
+
+2.  **View Live Feeds:**
+    You will see real-time charts visualizing your sensor data (e.g., soil moisture, temperature, humidity) as it's updated.
+
+    ![ThingSpeak Dashboard Placeholder](/images/Dashboard_thingspeak_smart_irrigaition.png)
+    [placeholder for ThingSpeak dashboard screenshot]
 
 
 
