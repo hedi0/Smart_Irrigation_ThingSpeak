@@ -293,19 +293,11 @@ if(moistpercentage < 40){  // ← Adjust this number
 # 🤝 Contri
 2.  Create a feature branch:
 5.  Open a Pull Request.
-------------------------------------------------------------------------
-# 📄 Lic
-
-This projet is licensed under the **MIT License**.
-See the ICENSE` file for details.
-
 ---------------------------------------------------------------------
-# 📞 Contact
--   **GitHub Issues** -- Report bugs or request features.
--   **Project Link:*
-    https://github.com/hedi0/Smart_Irrigation_ThingSpeak
-
-
+# 📄Lihisprojet is licensed under he **MIT License**.
+Seethe ICENSE` file for detail------------------------------------------------------------------
+nta
+GitHub Issues* -- Report bugs or request features.-   **Project Link:*
 <!--
 ## ✨ Featur
 
