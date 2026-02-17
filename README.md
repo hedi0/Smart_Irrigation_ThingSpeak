@@ -346,7 +346,8 @@ See the `LICENSE` file for details.
 # 📞 Contact
 
 -   **GitHub Issues** -- Report bugs or request features.
--   **Projec
+-   **Project Link:**
+    https://gi
 
 
 
