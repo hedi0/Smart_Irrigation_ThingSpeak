@@ -347,9 +347,7 @@ See the `LICENSE` file for details.
 
 -   **GitHub Issues** -- Report bugs or request features.
 -   **Project Link:**
-    https://gi
-
-
+    https://github.com/hedi0/Smart_Irrigation_ThingSpeak
 
 
 
