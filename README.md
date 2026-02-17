@@ -290,8 +290,32 @@ if(moistpercentage < 40){  // ← Adjust this number
 | ESP8266 Restarting | Use a stable 5V 2A power supply |
 
 
-# 🤝 Contri
-4.  Push to the branchgin feature/AmazingF
+# 🤝 Contributing
+
+Contributions are welcome!
+
+## How to Contribute
+
+1.  Fork the repository.
+2.  Create a feature branch:
+
+
+5.  Open a Pull Request.
+
+------------------------------------------------------------------------
+
+# 📄 License
+
+This project is licensed under the **MIT License**.\
+See the `LICENSE` file for details.
+
+------------------------------------------------------------------------
+
+# 📞 Contact
+
+-   **GitHub Issues** -- Report bugs or request features.
+-   **Project Link:**
+    https://github.com/hedi0/Smart_Irrigation_ThingSpeak
 
 
 <!--
