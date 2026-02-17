@@ -290,18 +290,8 @@ if(moistpercentage < 40){  // ← Adjust this number
 | ESP8266 Restarting | Use a stable 5V 2A power supply |
 
 
-# 🤝 Contributing
-
-Contr
-
-``` bash
-git commit -m "Add AmazingFeature"
-```
-
-4.  Push to the branch:
-
-``` bash
-git push origin feature/AmazingF
+# 🤝 Contri
+4.  Push to the branchgin feature/AmazingF
 
 
 <!--
