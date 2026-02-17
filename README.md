@@ -338,7 +338,7 @@ git push origin feature/AmazingFeature
 
 # 📄 License
 
-This project is 
+This project is licensed under the **MIT License**.
 
 
 
