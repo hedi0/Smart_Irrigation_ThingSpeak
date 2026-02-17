@@ -290,8 +290,21 @@ if(moistpercentage < 40){  // ← Adjust this number
 | ESP8266 Restarting | Use a stable 5V 2A power supply |
 
 
-# 🤝 Contri
-2Is -- Rep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 ## ✨ Featur
 
