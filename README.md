@@ -279,33 +279,15 @@ if(moistpercentage < 40){  // ← Adjust this number
 
 ## Common Issues and Solutions
 
-  -----------------------------------------------------------------------
-  Problem                             Solution
-  ----------------------------------- -----------------------------------
-  
-  No Serial Output                    Check COM port selection and ensure
-                                      baud rate is set to 9600
-                                      
-  WiFi Connection Failed              Verify SSID and password, check
-                                      WiFi signal strength
-
-  DHT22 Read Failures                 Check wiring at D4 and add a 10kΩ
-                                      pull-up resistor
-
-  Wrong Moisture Values               Perform dry and wet calibration
-                                      again
-
-  Pump Not Working                    Verify relay wiring (COM/NO) and
-                                      external power supply
-
-  ThingSpeak No Data                  Verify API key and Channel ID,
-                                      ensure 15s delay between updates
-
-  ESP8266 Restarting                  Use a stable 5V 2A power supply
-  
-  -----------------------------------------------------------------------
-
-  ------------------------------------------------------------------------
+| Problem | Solution |
+|---------|----------|
+| No Serial Output | Check COM port selection and ensure baud rate is set to 9600 |
+| WiFi Connection Failed | Verify SSID and password, check WiFi signal strength |
+| DHT22 Read Failures | Check wiring at D4 and add a 10kΩ pull-up resistor |
+| Wrong Moisture Values | Perform dry and wet calibration again |
+| Pump Not Working | Verify relay wiring (COM/NO) and external power supply |
+| ThingSpeak No Data | Verify API key and Channel ID, ensure 15s delay between updates |
+| ESP8266 Restarting | Use a stable 5V 2A power supply |
 
 # 🤝 Contributing
 
