@@ -328,6 +328,8 @@ git commit -m "Add AmazingFeature"
 
 4.  Push to the branch:
 
+``` bash
+git push origin feature/AmazingFeature
 
 
 
