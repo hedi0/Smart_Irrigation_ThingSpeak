@@ -290,6 +290,30 @@ if(moistpercentage < 40){  // ← Adjust this number
 | ESP8266 Restarting | Use a stable 5V 2A power supply |
 
 
+# 🤝 Contributing
+
+Contributions are welcome!
+
+## How to Contribute
+
+1.  Fork the repository.
+2.  Create a feature branch:
+
+``` bash
+git checkout -b feature/AmazingFeature
+```
+
+3.  Commit your changes:
+
+``` bash
+git commit -m "Add AmazingFeature"
+```
+
+4.  Push to the branch:
+
+``` bash
+git push origin feature/AmazingF
+
 
 <!--
 ## ✨ Features
