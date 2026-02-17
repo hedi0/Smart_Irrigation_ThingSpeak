@@ -345,7 +345,7 @@ See the `LICENSE` file for details.
 
 # 📞 Contact
 
--   **GitHu
+-   **GitHub Issues** -- Report bugs or request f
 
 
 
