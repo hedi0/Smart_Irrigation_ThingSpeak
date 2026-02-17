@@ -330,7 +330,9 @@ git commit -m "Add AmazingFeature"
 
 ``` bash
 git push origin feature/AmazingFeature
+```
 
+5.  Open a Pull Request.
 
 
 
