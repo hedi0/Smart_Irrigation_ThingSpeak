@@ -291,8 +291,7 @@ if(moistpercentage < 40){  // ← Adjust this number
 
 
 # 🤝 Contri
-2.  Create a fe branch:
-5.  Open a Pull Ren itHub Issues* -- Report bugs or request features.-   **Project Link:*
+2Is -- Rep
 <!--
 ## ✨ Featur
 
